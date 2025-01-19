@@ -16,7 +16,7 @@
 
 ### Clone and Build
 ```bash
-git clone https://github.com/your-username/student-spring-docker.git
+git clone https://github.com/uthpalasam7/student-spring-docker.git
 cd student-spring-docker
 mvn clean package
 ```
